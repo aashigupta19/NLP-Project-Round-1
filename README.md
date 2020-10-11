@@ -1,8 +1,14 @@
 # NLP-Project-Round-1
 Team ALCHEMIST
-Members:
+Members: 
 
-Aashi Gupta - 18UCS043
-Vatsal Mishra - 18UCS060
-Abhinav Gupta - 18UCS086
-Dushyant Gupta - 18UCS175
+<ul>
+<li>Aashi Gupta - 18UCS043</li>
+<li>Vatsal Mishra - 18UCS060</li>
+<li>Abhinav Gupta - 18UCS086</li>
+<li>Dushyant Gupta - 18UCS175</li>
+</ul>
+
+
+
+
